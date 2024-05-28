@@ -7,7 +7,7 @@ In this chapter, we will look at how to write custom activities.
 
 ## Pre-requisites
 
-Before you can write custom activities, you need to have a working Elsa application. If you don't have one yet, please follow the [Installation - Console apps](../installation/console-apps) guide.
+Before you can write custom activities, you need to have a working Elsa application. If you don't have one yet, please follow the [Installation - Console apps](../installation/elsa-console) guide.
 
 ## Writing custom activities
 
